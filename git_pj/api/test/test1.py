@@ -1,4 +1,6 @@
 
-def sp1(): pass
-def sp2(): pass
-def sp3(): pass
+def n1(): pass
+def n2(): pass
+def n3(): pass
+def n4(): pass
+
