@@ -1,0 +1,1 @@
+# git_treninr_proj
